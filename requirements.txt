@@ -1,0 +1,7 @@
+pandas
+openpyxl
+jupyter
+psycopg2-binary
+geopandas
+shapely
+rdflib

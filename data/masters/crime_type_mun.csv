@@ -1,0 +1,24 @@
+code,source_name,name_en,all_years,violence
+CONVENTIONAL,I. CRIMINALIDAD CONVENCIONAL,Conventional crime,0,mixed
+HOM_COMPLETED,1. Homicidios dolosos y asesinatos consumados,Completed homicide and murder,1,violent
+HOM_ATTEMPTED,2. Homicidios dolosos y asesinatos en grado tentativa,Attempted homicide and murder,1,violent
+INJURY,3. Delitos graves y menos graves de lesiones y riña tumultuaria,Bodily injury and affray,1,violent
+KIDNAPPING,4. Secuestro,Kidnapping,1,violent
+SEXUAL,5. Delitos contra la libertad sexual,Offences against sexual freedom,1,violent
+SEXUAL,5.-Delitos contra la libertad e indemnidad sexual,Offences against sexual freedom,1,violent
+SEXUAL_PENETRATION,5.1.-Agresión sexual con penetración,Sexual assault with penetration,0,violent
+SEXUAL_OTHER,5.2.-Resto de delitos contra la libertad sexual,Other offences against sexual freedom,0,violent
+SEXUAL_OTHER,5.2.-Resto de delitos contra la libertad e indemnidad sexual,Other offences against sexual freedom,0,violent
+ROBBERY_VIOLENT,6. Robos con violencia e intimidación,Robbery with violence or intimidation,1,violent
+BURGLARY,"7. Robos con fuerza en domicilios, establecimientos y otras instalaciones",Burglary of dwellings and premises,1,non_violent
+BURGLARY_DWELLING,7.1.-Robos con fuerza en domicilios,Domestic burglary,0,non_violent
+THEFT,8. Hurtos,Theft,1,non_violent
+VEHICLE_THEFT,9. Sustracciones de vehículos,Vehicle theft,1,non_violent
+DRUG_TRAFFICKING,10. Tráfico de drogas,Drug trafficking,1,non_violent
+OTHER_CONVENTIONAL,11. Resto de criminalidad convencional,Other conventional crime,0,unclassified
+CYBERCRIME,II. CIBERCRIMINALIDAD (infracciones penales cometidas en/por medio ciber),Cybercrime,0,non_violent
+CYBER_FRAUD,12.-Estafas informáticas,Computer enabled fraud,0,non_violent
+CYBER_OTHER,13.-Otros ciberdelitos,Other cybercrime,0,non_violent
+OTHER,Resto de infracciones penales,Other offences and cybercrime,1,unclassified
+TOTAL,III. TOTAL INFRACCIONES PENALES,Total criminal offences,0,total
+TOTAL,TOTAL INFRACCIONES PENALES,Total criminal offences,0,total

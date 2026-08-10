@@ -1,0 +1,21 @@
+code,name_en,all_years,violence
+CONVENTIONAL,Conventional crime,0,mixed
+HOM_COMPLETED,Completed homicide and murder,1,violent
+HOM_ATTEMPTED,Attempted homicide and murder,1,violent
+INJURY,Bodily injury and affray,1,violent
+KIDNAPPING,Kidnapping,1,violent
+SEXUAL,Offences against sexual freedom,1,violent
+SEXUAL_PENETRATION,Sexual assault with penetration,0,violent
+SEXUAL_OTHER,Other offences against sexual freedom,0,violent
+ROBBERY_VIOLENT,Robbery with violence or intimidation,1,violent
+BURGLARY,Burglary of dwellings and premises,1,non_violent
+BURGLARY_DWELLING,Domestic burglary,0,non_violent
+THEFT,Theft,1,non_violent
+VEHICLE_THEFT,Vehicle theft,1,non_violent
+DRUG_TRAFFICKING,Drug trafficking,1,non_violent
+OTHER_CONVENTIONAL,Other conventional crime,0,unclassified
+CYBERCRIME,Cybercrime,0,non_violent
+CYBER_FRAUD,Computer enabled fraud,0,non_violent
+CYBER_OTHER,Other cybercrime,0,non_violent
+OTHER,Other offences and cybercrime,1,unclassified
+TOTAL,Total criminal offences,0,total

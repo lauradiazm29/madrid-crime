@@ -1,0 +1,46 @@
+code,source_name,name_en,level,parent_code,violence
+TOTAL,TOTAL INFRACCIONES PENALES,Total criminal offences,0,,total
+1,1. CONTRA LAS PERSONAS,Offences against persons,1,TOTAL,violent
+1.1,1.1.-Homicidios dolosos/asesinatos,Intentional homicide and murder,2,1,violent
+1.1.1,1.1.1.-Homicidios dolosos/asesinatos consumados,Completed intentional homicide and murder,3,1.1,violent
+1.2,1.2.-Lesiones,Bodily injury,2,1,violent
+1.3,1.3.-Malos tratos ámbito familiar,Domestic violence in the family setting,2,1,violent
+1.4,1.4.-Otros contra las personas,Other offences against persons,2,1,violent
+2,2. CONTRA LA LIBERTAD,Offences against personal liberty,1,TOTAL,violent
+2.1,2.1.-Malos tratos habituales en el ámbito familiar,Habitual domestic abuse,2,2,violent
+2.2,2.2.-Otros contra la libertad,Other offences against personal liberty,2,2,violent
+3,3. LIBERTAD SEXUAL,Offences against sexual freedom,1,TOTAL,violent
+3.1,3.1.-Agresión sexual,Sexual assault,2,3,violent
+3.2,3.2.-Agresión sexual con penetración,Sexual assault with penetration,2,3,violent
+3.3,3.3.-Corrupción de menores o incapacitados,Corruption of minors,2,3,violent
+3.4,3.4.-Pornografía de menores,Child pornography,2,3,violent
+3.5,3.5.-Otros contra la libertad e indemnidad sexual,Other offences against sexual freedom,2,3,violent
+3.5,3.5.-Otros contra la libertad sexual,Other offences against sexual freedom,2,3,violent
+4,4. RELACIONES FAMILIARES,Offences against family relations,1,TOTAL,unclassified
+5,5. PATRIMONIO,Property offences,1,TOTAL,non_violent
+5.1,5.1.-Hurtos,Theft,2,5,non_violent
+5.2,5.2.-Robos con fuerza en las cosas,Burglary involving forced entry,2,5,non_violent
+5.2.1,5.2.1.-Robos con fuerza en las cosas en el interior de vehículos,Theft from vehicles by forced entry,3,5.2,non_violent
+5.2.2,5.2.2.-Robos con fuerza en viviendas,Domestic burglary,3,5.2,non_violent
+5.2.3,5.2.3.-Robos con fuerza en establecimientos,Burglary of commercial premises,3,5.2,non_violent
+5.3,5.3.-Robos con violencia o intimidación,Robbery with violence or intimidation,2,5,violent
+5.3.1,5.3.1.-Robos con violencia en vía pública,Street robbery,3,5.3,violent
+5.3.2,5.3.2.-Robos con violencia en viviendas,Robbery in dwellings,3,5.3,violent
+5.3.3,5.3.3.-Robos con violencia en establecimientos,Robbery of commercial premises,3,5.3,violent
+5.4,5.4.-Sustracción de vehículos,Vehicle theft,2,5,non_violent
+5.5,5.5.-Estafas,Fraud,2,5,non_violent
+5.5.1,5.5.1.-Estafas informáticas,Computer enabled fraud,3,5.5,non_violent
+5.6,5.6.-Daños,Criminal damage,2,5,non_violent
+5.7,5.7.-Contra la propiedad intelectual/industrial,Offences against intellectual and industrial property,2,5,non_violent
+5.8,5.8.-Blanqueo de capitales,Money laundering,2,5,non_violent
+5.9,5.9.-Otros contra el patrimonio,Other property offences,2,5,non_violent
+6,6. SEGURIDAD COLECTIVA,Offences against public safety,1,TOTAL,non_violent
+6.1,6.1.-Tráfico de drogas,Drug trafficking,2,6,non_violent
+6.2,6.2.-Contra la seguridad vial,Road safety offences,2,6,non_violent
+6.3,6.3.-Otros contra la seguridad colectiva,Other offences against public safety,2,6,non_violent
+7,7. FALSEDADES,Forgery offences,1,TOTAL,non_violent
+8,8. ADMÓN. PÚBLICA,Offences against the public administration,1,TOTAL,non_violent
+9,9. ADMÓN. JUSTICIA,Offences against the administration of justice,1,TOTAL,non_violent
+10,10. ORDEN PÚBLICO,Offences against public order,1,TOTAL,non_violent
+11,11. LEGISLACIÓN ESPECIAL,Offences under special legislation,1,TOTAL,non_violent
+12,12. OTRAS INFRACCIONES PENALES,Other criminal offences,1,TOTAL,unclassified
