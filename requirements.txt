@@ -1,7 +1,7 @@
-pandas
-openpyxl
-jupyter
-psycopg2-binary
-geopandas
-shapely
-rdflib
+pandas==3.0.5
+openpyxl==3.1.5
+jupyter==1.1.1
+psycopg2-binary==2.9.12
+geopandas==1.1.4
+shapely==2.1.2
+rdflib==7.6.0
